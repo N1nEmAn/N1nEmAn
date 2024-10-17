@@ -56,7 +56,7 @@ I currently have two papers under review, focusing on **AI-assisted IoT vulnerab
 
 If you're into **hacking technology**👿, **music**🎸, or even **communism**👷, along with games like Cyberpunk 2077 and Black Myth: Wukong, I think we’ll get along well.
 
-My blog website is cnblogs.com/9man.
+My blog website is [**here**](cnblogs.com/9man).
 
 Feel free to reach out to me at **n1ne7man@gmail.com**.
 
