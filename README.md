@@ -4,7 +4,7 @@ I’m an undergraduate student majoring in Cyberspace Security at Shandong Unive
 
 ### Vulnerability Discovery Results💥
 
-I have discovered multiple vulnerabilities, each receiving official CVE recognition:
+I have discovered multiple vulnerabilities, each receiving official CVE/CNVD recognition:
 
 - **CVE-2024-45880 (Motorola)**
   A command injection vulnerability exists in Motorola CX2L router v1.0.2 and below. The vulnerability stems from the SetStationSettings function, which directly calls the system function to execute commands for parameters like MAC addresses without proper input validation. This allows malicious actors to inject and execute arbitrary commands.
