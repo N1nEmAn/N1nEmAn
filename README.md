@@ -40,11 +40,11 @@ If you're someone who appreciates both **hacking and artistry**, you might enjoy
 
 Here are a few of my personal recommendations:
 
-- EDM: [**The Postman’s Death**](https://music.163.com/#/song?id=2151973944)
-- String Music: [**Voyage**](https://music.163.com/#/song?id=1819064899)
-- Light Music: [**Stars Won’t Rise If We Only Say Goodnight**](https://music.163.com/#/song?id=1444808156)
-- Pop: [**Obviously**](http://163cn.tv/yeT8Hx8) [**Winter Flowers**](https://music.163.com/#/song?id=1972432560)
-- Rap: [**The Ritual**](https://music.163.com/#/song?id=2010877321)
+- ⚡️EDM: [**The Postman’s Death**](https://music.163.com/#/song?id=2151973944)
+- 🎻String Music: [**Voyage**](https://music.163.com/#/song?id=1819064899)
+- 😴Light Music: [**Stars Won’t Rise If We Only Say Goodnight**](https://music.163.com/#/song?id=1444808156)
+- 💫Pop: [**Obviously**](http://163cn.tv/yeT8Hx8) [**Winter Flowers**](https://music.163.com/#/song?id=1972432560)
+- 🎙Rap: [**The Ritual**](https://music.163.com/#/song?id=2010877321)
 
 You can find more of my music on my NetEase Music profile: [**NetEase Cloud Music Profile**](https://music.163.com/#/artist?id=28389493).
 
