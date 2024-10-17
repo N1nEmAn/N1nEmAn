@@ -1,5 +1,5 @@
-### About Me👨‍🎓
-😵
+### About Me
+
 I’m an undergraduate student majoring in Cyberspace Security at Shandong University and a member of Tsinghua University's VUL337 lab. My primary research focuses on **IoT security**, particularly within `Linux` and `RTOS` environments. Additionally, I’m a dedicated `PWN` player for both `HASHTEAM` and `NEPNEP`, contributing to and organizing numerous CTF competitions.
 
 ### Vulnerability Discovery Results💥
@@ -26,7 +26,7 @@ Throughout my academic journey, I’ve participated in various prestigious compe
 - **Ranked 9th/40 in the 2023 Xiangshan Cup finals as a solo participant against three-member teams🥷**
 - Awarded the "Self-Reliant Star🌟" title by Shandong University
 
-### Popular Tech Blogs👨‍🏫
+### Popular Tech Blogs📚
 
 I’ve published several technical blogs on vulnerability analysis and IoT security. Here are a few of my noteworthy articles:
 
