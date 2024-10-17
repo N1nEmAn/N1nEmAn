@@ -1,5 +1,3 @@
-## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1nEmAn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ### About Me👨‍🎓
 
 I’m an undergraduate student majoring in Cyberspace Security at Shandong University and a member of Tsinghua University's VUL337 lab. My primary research focuses on **IoT security**, particularly within `Linux` and `RTOS` environments. Additionally, I’m a dedicated `PWN` player for both `HASHTEAM` and `NEPNEP`, contributing to and organizing numerous CTF competitions.
@@ -59,6 +57,7 @@ I currently have two papers under review, focusing on **AI-assisted IoT vulnerab
 If you're into **hacking technology**👿, **music**🎸, or even **communism**👷, along with games like Cyberpunk 2077 and Black Myth: Wukong, I think we’ll get along well.
 
 Feel free to reach out to me at **n1ne7man@gmail.com**.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1nEmAn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **N1nEmAn/N1nEmAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
