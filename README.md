@@ -36,7 +36,7 @@ I’ve published several technical blogs on vulnerability analysis and IoT secur
 
 ### Music Creation: Blending Tech and Art 🎶
 
-If you're someone who appreciates both **hacking and artistry**, you might enjoy my musical works. I’ve garnered over **7.5 million plays** on NetEase Music. My musical style spans electronic music, light music, pop songs, rap and so on. I’m currently exploring the **SERUM synthesizer** and learning about various **EDM styles** and **production techniques**.But I have to say that I am now fascinated by **rock music**🤟.
+If you're someone who appreciates both **hacking and artistry**, you might enjoy my musical works. I’ve garnered over **7.5 million plays** on NetEase Music. My musical style spans electronic music, light music, pop songs, rap and so on. I’m currently exploring the **SERUM synthesizer** and learning about various **EDM styles** and **audio mixing techniques**.But I have to say that I am now fascinated by **rock music**🤟.
 
 Here are a few of my personal recommendations:
 
