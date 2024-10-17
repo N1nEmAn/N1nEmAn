@@ -10,7 +10,7 @@ I have discovered multiple vulnerabilities, each receiving official CVE recognit
   A command injection vulnerability exists in Motorola CX2L router v1.0.2 and below. The vulnerability stems from the SetStationSettings function, which directly calls the system function to execute commands for parameters like MAC addresses without proper input validation. This allows malicious actors to inject and execute arbitrary commands.
   - CVSS 3.x Base Score: 8.0 (HIGH)
 - **CVE-2024-45881 to 45893 & 43027 (DrayTek)**
-  **CVE-2024-43027**：It affects DrayTek Vigor 3900 (before v1.5.1.5_Beta), Vigor 2960 (before v1.5.1.5_Beta), and Vigor 300B (before v1.5.1.5_Beta), where a command injection vulnerability was found in the action parameter of the `cgi-bin/mainfunction.cgi`.
+  CVE-2024-43027 as a case：It affects DrayTek Vigor 3900 (before v1.5.1.5_Beta), Vigor 2960 (before v1.5.1.5_Beta), and Vigor 300B (before v1.5.1.5_Beta), where a command injection vulnerability was found in the action parameter of the `cgi-bin/mainfunction.cgi`.
   - CVSS 3.x Base Score: 8.0 (HIGH)
 
 In addition, I am in the process of submitting multiple TP-LINK 0day vulnerabilities.
