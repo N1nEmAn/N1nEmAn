@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/c846a9ab-1f97-4756-874f-7aa9b7df3270" alt="a60719ea-71db-4d60-a2f9-35662bc5d9ce" style="zoom: 40%;" />
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/c846a9ab-1f97-4756-874f-7aa9b7df3270" alt="Image" style="width: 40%; height: auto;" />
+</div>
 
 ### About Me
 
@@ -83,6 +85,7 @@ I’m an undergraduate student majoring in **Cyberspace Security** at Shandong U
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nEmAn&layout=compact" alt="Top Langs" />
     </a>
 </div>
+
 
 
 <div style="text-align: center;">
