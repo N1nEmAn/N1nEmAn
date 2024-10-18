@@ -4,7 +4,16 @@
 
 ### About Me
 
-I’m an undergraduate student majoring in **Cyberspace Security** at Shandong University and a member of Tsinghua University's **VUL337 lab**. My primary research focuses on **IoT security**, particularly within `Linux` and `RTOS` environments. Additionally, I’m a dedicated `PWN` player for both `HASHTEAM` and `NEPNEP`, contributing to and organizing numerous CTF competitions.
+
+🚀 **Cybersecurity Undergrad**  
+Currently mastering **Cyberspace Security** at Shandong University and collaborating with the **VUL337 lab** at Tsinghua University.
+
+🔍 **IoT Security Researcher**  
+Diving into **IoT security** in `Linux` and `RTOS` environments, uncovering vulnerabilities along the way.
+
+⚔️ **CTF Enthusiast**  
+A proud **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and organizing exciting CTF competitions!
+
 
 ---
 <div class="vulnerabilities">
@@ -133,7 +142,7 @@ I’m an undergraduate student majoring in **Cyberspace Security** at Shandong U
 ---
 
 <div class="papers">
-    <h3 align="center">🧐 ublished Papers 🧐</h3>
+    <h3 align="center">🧐 Published Papers 🧐</h3>
     <p>I currently have two papers under review, focusing on <strong>AI-assisted IoT vulnerability discovery</strong> and <strong>algorithmic complexity vulnerabilities</strong>.</p>
 </div>
 
