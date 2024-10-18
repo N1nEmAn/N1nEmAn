@@ -1,64 +1,91 @@
+<img src="https://github.com/user-attachments/assets/c846a9ab-1f97-4756-874f-7aa9b7df3270" alt="a60719ea-71db-4d60-a2f9-35662bc5d9ce" style="zoom: 40%;" />
+
 ### About Me
 
-I’m an undergraduate student majoring in Cyberspace Security at Shandong University and a member of Tsinghua University's VUL337 lab. My primary research focuses on **IoT security**, particularly within `Linux` and `RTOS` environments. Additionally, I’m a dedicated `PWN` player for both `HASHTEAM` and `NEPNEP`, contributing to and organizing numerous CTF competitions.
+I’m an undergraduate student majoring in **Cyberspace Security** at Shandong University and a member of Tsinghua University's **VUL337 lab**. My primary research focuses on **IoT security**, particularly within `Linux` and `RTOS` environments. Additionally, I’m a dedicated `PWN` player for both `HASHTEAM` and `NEPNEP`, contributing to and organizing numerous CTF competitions.
 
-### Vulnerability Discovery Results💥
+<div class="vulnerabilities">
+    <h4>Vulnerability Discovery Results 💥</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>CVE ID</th>
+                <th>Description</th>
+                <th>CVSS Score</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>CVE-2024-45880 (Motorola)</td>
+                <td>A command injection vulnerability exists in Motorola CX2L router v1.0.2 and below.</td>
+                <td>8.0 (HIGH)</td>
+            </tr>
+            <tr>
+                <td>CVE-2024-45881 to 45893 & 43027 (DrayTek)</td>
+                <td>A command injection affects DrayTek Vigor 3900 /2960/300B (before v1.5.1.5_Beta).</td>
+                <td>8.0 (HIGH)</td>
+            </tr>
+        </tbody>
+    </table>
+    <p>In addition, I am in the process of submitting multiple TP-LINK 0day vulnerabilities.</p>
+</div>
 
-I have discovered multiple vulnerabilities, each receiving official CVE/CNVD recognition:
 
-- **CVE-2024-45880 (Motorola)**
-  A command injection vulnerability exists in Motorola CX2L router v1.0.2 and below. The vulnerability stems from the SetStationSettings function, which directly calls the system function to execute commands for parameters like MAC addresses without proper input validation. This allows malicious actors to inject and execute arbitrary commands.
-  - CVSS 3.x Base Score: 8.0 (HIGH)
-- **CVE-2024-45881 to 45893 & 43027 (DrayTek)**
-  CVE-2024-43027 as a case：It affects DrayTek Vigor 3900 (before v1.5.1.5_Beta), Vigor 2960 (before v1.5.1.5_Beta), and Vigor 300B (before v1.5.1.5_Beta), where a command injection vulnerability was found in the action parameter of the `cgi-bin/mainfunction.cgi`.
-  - CVSS 3.x Base Score: 8.0 (HIGH)
+<div class="awards">
+    <h4>Competition Awards 🏆</h4>
+    <ul>
+        <li>2nd Prize, 7th Blue Hat Cup National College Student Cybersecurity Competition</li>
+        <li>2nd Prize, 2023 Shandong Provincial Information Security Competition</li>
+        <li>3rd Prize, 17th National College Student Information Security Competition</li>
+        <li>3rd Prize, Jingqi CTF National Competition</li>
+        <li>Ranked 9th/40 in the 2023 Xiangshan Cup finals as a solo participant against three-member teams 🥷</li>
+        <li>Awarded the "Self-Reliant Star 🌟" title by Shandong University</li>
+    </ul>
+</div>
 
-In addition, I am in the process of submitting multiple TP-LINK 0day vulnerabilities.
 
-### Competition Awards🏆
+<div class="blogs">
+    <h4>Popular Tech Blogs 📚</h4>
+    <ul>
+        <li><a href="https://bbs.kanxue.com/thread-282750.htm">Analysis of Vigor3900 CVE-2021-43118 Command Injection Vulnerability</a></li>
+        <li><a href="https://www.freebuf.com/vuls/395954.html">Stepping into the World of IoT Security: DIR-815 Router Multiple Overflow Vulnerability Reproduction</a></li>
+        <li><a href="https://www.freebuf.com/vuls/378598.html">Memory Exploitation: Belated Blindness and Inescapable Exit Vulnerability</a></li>
+    </ul>
+</div>
 
-Throughout my academic journey, I’ve participated in various prestigious competitions, achieving several accolades:
 
-- **2nd Prize, 7th Blue Hat Cup National College Student Cybersecurity Competition**
-- **2nd Prize, 2023 Shandong Provincial Information Security Competition**
-- 3rd Prize, 17th National College Student Information Security Competition
-- 3rd Prize, Jingqi CTF National Competition
-- **Ranked 9th/40 in the 2023 Xiangshan Cup finals as a solo participant against three-member teams🥷**
-- Awarded the "Self-Reliant Star🌟" title by Shandong University
+<div class="music">
+    <h4>Music Creation: Blending Tech and Art 🎶</h4>
+    <p>If you're someone who appreciates both <strong>hacking and artistry</strong>, you might enjoy my musical works. I’ve garnered over <strong>7.5 million plays</strong> on NetEase Cloud Music. My musical style spans electronic music, light music, pop songs, rap, and more. I’m currently exploring the <strong>SERUM synthesizer</strong> and learning about various <strong>EDM styles</strong> while enhancing my <strong>audio mixing techniques</strong>. I'm now fascinated by <strong>rock music</strong> 🤟.</p>
 
-### Popular Tech Blogs📚
+<ul>
+    <li>⚡️EDM: <a href="https://music.163.com/#/song?id=2151973944"><strong>The Postman’s Death</strong></a></li>
+    <li>🎻String Music: <a href="https://music.163.com/#/song?id=1819064899"><strong>Voyage</strong></a></li>
+    <li>😴Light Music: <a href="https://music.163.com/#/song?id=1444808156"><strong>Stars Won’t Rise If We Only Say Goodnight</strong></a></li>
+    <li>💫Pop: <a href="http://163cn.tv/yeT8Hx8"><strong>Obviously</strong></a> / <a href="https://music.163.com/#/song?id=1972432560"><strong>Winter Flowers</strong></a></li>
+    <li>🎙Rap: <a href="https://music.163.com/#/song?id=2010877321"><strong>The Ritual</strong></a></li>
+</ul>
 
-I’ve published several technical blogs on vulnerability analysis and IoT security. Here are a few of my noteworthy articles:
+<div class="papers">
+    <h4>Published Papers 🧐</h4>
+    <p>I currently have two papers under review, focusing on <strong>AI-assisted IoT vulnerability discovery</strong> and <strong>algorithmic complexity vulnerabilities</strong>.</p>
+</div>
 
-- [Analysis of Vigor3900 CVE-2021-43118 Command Injection Vulnerability](https://bbs.kanxue.com/thread-282750.htm)
-- [Stepping into the World of IoT Security: DIR-815 Router Multiple Overflow Vulnerability Reproduction](https://www.freebuf.com/vuls/395954.html)
-- [Memory Exploitation: Belated Blindness and Inescapable Exit Vulnerability](https://www.freebuf.com/vuls/378598.html)
+<div class="others">
+    <h4>Others 😎</h4>
+    <p>If you're into <strong>hacking technology</strong> 👿, <strong>music</strong> 🎸, or even <strong>communism</strong> 👷, along with games like Cyberpunk 2077 and Black Myth: Wukong, I think we’ll get along well.</p>
+    <p>Welcome to <a href="https://www.cnblogs.com/9man">my blog website</a> and feel free to reach out to me at <strong>n1ne7man@gmail.com</strong>.</p>
+</div>
 
-### Music Creation: Blending Tech and Art 🎶
 
-If you're someone who appreciates both **hacking and artistry**, you might enjoy my musical works. I’ve garnered over **7.5 million plays** on NetEase Cloud Music. My musical style spans electronic music, light music, pop songs, rap and so on. I’m currently exploring the **SERUM synthesizer** and learning about various **EDM styles** and enhancing **audio mixing techniques**.But I have to say that I am now fascinated by **rock music**🤟.
+<div style="text-align: center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1nEmAn&layout=compact" alt="Top Langs" />
+    </a>
+</div>
 
-Here are a few of my personal recommendations:
 
-- ⚡️EDM: [**The Postman’s Death**](https://music.163.com/#/song?id=2151973944)
-- 🎻String Music: [**Voyage**](https://music.163.com/#/song?id=1819064899)
-- 😴Light Music: [**Stars Won’t Rise If We Only Say Goodnight**](https://music.163.com/#/song?id=1444808156)
-- 💫Pop: [**Obviously**](http://163cn.tv/yeT8Hx8) [**Winter Flowers**](https://music.163.com/#/song?id=1972432560)
-- 🎙Rap: [**The Ritual**](https://music.163.com/#/song?id=2010877321)
-
-You can find more of my music on my NetEase Music profile: [**NetEase Cloud Music Profile**](https://music.163.com/#/artist?id=28389493).
-
-### Published Papers🧐
-
-I currently have two papers under review, focusing on **AI-assisted IoT vulnerability discovery** and **algorithmic complexity vulnerabilities**.
-
-### Others😎
-
-If you're into **hacking technology**👿, **music**🎸, or even **communism**👷, along with games like Cyberpunk 2077 and Black Myth: Wukong, I think we’ll get along well.
-
-Welcome to [**my blog website**](https://www.cnblogs.com/9man) and feel free to reach out to me at **n1ne7man@gmail.com**.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1nEmAn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Nintendo Switch](https://img.shields.io/badge/1409-uni-bluw) ![](https://komarev.com/ghpvc/?username=N1nEmAn)
-
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/1409-uni-bluw" alt="Nintendo Switch" />
+    <img src="https://komarev.com/ghpvc/?username=N1nEmAn" alt="Profile Views" />
+</div>
