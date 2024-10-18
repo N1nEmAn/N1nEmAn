@@ -12,7 +12,7 @@ Currently mastering **Cyberspace Security** at Shandong University and proud to 
 Diving into **IoT security** in `Linux` and `RTOS` environments, uncovering vulnerabilities along the way.
 
 ⚔️ **CTF Enthusiast**  
-A proud **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and organizing exciting CTF competitions!
+A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and organizing exciting CTF competitions!
 
 
 ---
