@@ -6,7 +6,7 @@
 
 
 🚀 **Cybersecurity Undergrad**  
-Currently mastering **Cyberspace Security** at Shandong University and collaborating with the **VUL337 lab** at Tsinghua University.
+Currently mastering **Cyberspace Security** at Shandong University and proud to be a member of the **VUL337 lab** at Tsinghua University.
 
 🔍 **IoT Security Researcher**  
 Diving into **IoT security** in `Linux` and `RTOS` environments, uncovering vulnerabilities along the way.
