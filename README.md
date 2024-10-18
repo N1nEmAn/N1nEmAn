@@ -54,11 +54,11 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
     </thead>
     <tbody>
         <tr>
-            <td style="padding: 10px;">🥇 <strong>2nd Prize</strong></td>
+            <td style="padding: 10px;">🥈 <strong>2nd Prize</strong></td>
             <td style="padding: 10px;"><em>7th Blue Hat Cup National College Student Cybersecurity Competition</em></td>
         </tr>
         <tr>
-            <td style="padding: 10px;">🥇 <strong>2nd Prize</strong></td>
+            <td style="padding: 10px;">🥈 <strong>2nd Prize</strong></td>
             <td style="padding: 10px;"><em>2023 Shandong Provincial Information Security Competition</em></td>
         </tr>
         <tr>
