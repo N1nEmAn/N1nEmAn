@@ -1,7 +1,7 @@
 ### About Me
 
 I’m an undergraduate student majoring in Cyberspace Security at Shandong University and a member of Tsinghua University's VUL337 lab. My primary research focuses on **IoT security**, particularly within `Linux` and `RTOS` environments. Additionally, I’m a dedicated `PWN` player for both `HASHTEAM` and `NEPNEP`, contributing to and organizing numerous CTF competitions.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1nEmAn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Vulnerability Discovery Results💥
 
 I have discovered multiple vulnerabilities, each receiving official CVE/CNVD recognition:
@@ -57,4 +57,8 @@ I currently have two papers under review, focusing on **AI-assisted IoT vulnerab
 If you're into **hacking technology**👿, **music**🎸, or even **communism**👷, along with games like Cyberpunk 2077 and Black Myth: Wukong, I think we’ll get along well.
 
 Welcome to [**my blog website**](https://www.cnblogs.com/9man) and feel free to reach out to me at **n1ne7man@gmail.com**.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1nEmAn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Nintendo Switch](https://img.shields.io/badge/1409-uni-bluw) ![](https://komarev.com/ghpvc/?username=N1nEmAn)
 
