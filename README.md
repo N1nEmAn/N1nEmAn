@@ -1,7 +1,8 @@
 ### About Me
 
 I’m an undergraduate student majoring in Cyberspace Security at Shandong University and a member of Tsinghua University's VUL337 lab. My primary research focuses on **IoT security**, particularly within `Linux` and `RTOS` environments. Additionally, I’m a dedicated `PWN` player for both `HASHTEAM` and `NEPNEP`, contributing to and organizing numerous CTF competitions.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1nEmAn&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=N1nEmAn&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ### Vulnerability Discovery Results💥
 
 I have discovered multiple vulnerabilities, each receiving official CVE/CNVD recognition:
