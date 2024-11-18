@@ -39,7 +39,7 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
             </tr>
         </tbody>
     </table>
-    <p>In addition, I am in the process of submitting multiple TP-LINK 0day vulnerabilities.</p>
+    <p>In addition, CVE-2024-51436? And, I am in the process of submitting multiple TP-LINK 0day vulnerabilities.</p>
 </div>
 
 ---
