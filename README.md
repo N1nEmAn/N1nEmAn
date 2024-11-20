@@ -169,14 +169,13 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
     <img src="https://komarev.com/ghpvc/?username=N1nEmAn" alt="Profile Views" />
 </div>
 
-
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=archlinux)
+![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat-square&logo=neovim)
 ![C](https://img.shields.io/badge/-C-333333?style=flat-square&logo=c)
 ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat-square&logo=pastebin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 ![GNU Bash](https://img.shields.io/badge/-GNU_Bash-333333?style=flat-square&logo=gnubash)
 ![LaTex](https://img.shields.io/badge/-LaTex-333333?style=flat-square&logo=latex)
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat-square&logo=archlinux)
-![NeoVim](https://img.shields.io/badge/-NeoVim-333333?style=flat-square&logo=neovim)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Qemu](https://img.shields.io/badge/-Qemu-333333?style=flat-square&logo=qemu)
