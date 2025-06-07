@@ -127,7 +127,7 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
                 <td style="padding: 10px;">💫 Pop</td>
                 <td style="padding: 10px;">
                     <a href="http://163cn.tv/yeT8Hx8"><strong>Obviously</strong></a> / 
-                    <a href="https://music.163.com/#/song?id=1972432560"><strong>Winter Flowers</strong></a>
+                    <a href="https://music.163.com/#/song?id=1972432560"><strong>Winter Flowers</strong></a> /
                     <a href="https://music.163.com/#/song?id=2712372914"><strong>Ebbing Tide</strong></a>
                 </td>
             </tr>
