@@ -153,7 +153,7 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
 <div class="others">
     <h3 align="center">😎 Others 😎</h3>
     <p>If you're into <strong>hacking technology</strong> 👿, <strong>music</strong> 🎸, or even <strong>communism</strong> 👷, along with games like Cyberpunk 2077 and Black Myth: Wukong, I think we’ll get along well.</p>
-    <p>Welcome to <a href="https://www.cnblogs.com/9man">my blog website</a> and feel free to reach out to me at <strong>n1ne7man@gmail.com</strong>.</p>
+    <p>Welcome to <a href="https://n1neman.fun/">my blog website</a> and feel free to reach out to me at <strong>n1ne7man@gmail.com</strong>.</p>
 </div>
 
 
