@@ -151,17 +151,6 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1nEmAn/N1nEmAn/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1nEmAn/N1nEmAn/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N1nEmAn/N1nEmAn/output/github-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
----
-
-
 <div class="others">
     <h3 align="center">😎 Others 😎</h3>
     <p>If you're into <strong>hacking technology</strong> 👿, <strong>music</strong> 🎸, or even <strong>communism</strong> 👷, along with games like Cyberpunk 2077 and Black Myth: Wukong, I think we’ll get along well.</p>
