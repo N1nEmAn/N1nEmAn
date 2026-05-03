@@ -1,7 +1,7 @@
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/df5d4b3a-5ed3-44f7-91da-4c506f75cc09" alt="Image" style="width: 100%; height: auto;" />
 </div>
-https://vibecafe.ai/@n1neman
+
 ### About Me
 
 
