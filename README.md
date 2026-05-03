@@ -2,6 +2,8 @@
     <img src="https://github.com/user-attachments/assets/df5d4b3a-5ed3-44f7-91da-4c506f75cc09" alt="Image" style="width: 100%; height: auto;" />
 </div>
 
+![](https://vibecafe.ai/@n1neman/badge)
+
 ### About Me
 
 
@@ -149,6 +151,16 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1nEmAn/N1nEmAn/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1nEmAn/N1nEmAn/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N1nEmAn/N1nEmAn/output/github-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+---
+
 
 <div class="others">
     <h3 align="center">😎 Others 😎</h3>
@@ -180,3 +192,8 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Qemu](https://img.shields.io/badge/-Qemu-333333?style=flat-square&logo=qemu)
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
