@@ -192,8 +192,3 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
 ![Qemu](https://img.shields.io/badge/-Qemu-333333?style=flat-square&logo=qemu)
-
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
