@@ -8,7 +8,13 @@
 
 
 🚀 **Cybersecurity Undergrad**  
-Currently mastering **Cyberspace Security** at Shandong University and proud to be a member of the **VUL337 lab** at Tsinghua University.
+Currently studying **Cyberspace Security** at Shandong University and proud to be a member of the **VUL337 lab** at Tsinghua University.
+
+🤖 **Exploring Large Language Models**  
+Recently expanding my focus toward **large language models** and their applications.
+
+🧩 **Harness Developer**  
+Learning to build **LLM harnesses** that connect models with tools, environments, structured outputs, and real-world tasks.
 
 🔍 **IoT Security Researcher**  
 Diving into **IoT security** in `Linux` and `RTOS` environments, uncovering vulnerabilities along the way.
@@ -141,13 +147,6 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
     </table>
 </div>
 
-
----
-
-<div class="papers">
-    <h3 align="center">🧐 Published Papers 🧐</h3>
-    <p>I currently have two papers under review, focusing on <strong>AI-assisted IoT vulnerability discovery</strong> and <strong>algorithmic complexity vulnerabilities</strong>.</p>
-</div>
 
 ---
 
