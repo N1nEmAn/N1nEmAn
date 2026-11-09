@@ -7,8 +7,8 @@
 ### About Me
 
 
-🚀 **Cybersecurity Undergrad**  
-Currently studying **Cyberspace Security** at Shandong University and proud to be a member of the **VUL337 lab** at Tsinghua University.
+🚀 **Cybersecurity Student**  
+Currently studying at **Tsinghua University** and proud to be a member of the **VUL337 lab**.
 
 🤖 **Exploring Large Language Models**  
 Recently expanding my focus toward **large language models** and their applications.
@@ -20,7 +20,7 @@ Learning to build **LLM harnesses** that connect models with tools, environments
 Diving into **IoT security** in `Linux` and `RTOS` environments, uncovering vulnerabilities along the way.
 
 ⚔️ **CTF Enthusiast**  
-A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and organizing exciting CTF competitions!
+A **PWN** player with **REDBUD** and **NEPNEP**, actively participating in and organizing exciting CTF competitions!
 
 
 ---
@@ -61,6 +61,14 @@ A **PWN** player with **HASHTEAM** and **NEPNEP**, actively participating in and
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td style="padding: 10px;">🥇 <strong>Champion</strong></td>
+            <td style="padding: 10px;"><em>3rd Tencent Cloud Intelligent Attack-Defense Challenge — Online Qualifier (1st / 634 teams, fully autonomous AI agent)</em></td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">🥇 <strong>Champion</strong></td>
+            <td style="padding: 10px;"><em>GeekCon 2026 AI Challenge</em></td>
+        </tr>
         <tr>
             <td style="padding: 10px;">🥈 <strong>2nd Prize</strong></td>
             <td style="padding: 10px;"><em>7th Blue Hat Cup National College Student Cybersecurity Competition</em></td>
